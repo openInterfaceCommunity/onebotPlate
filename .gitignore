@@ -1,0 +1,39 @@
+/产品运维
+/资源目录
+
+# 编译输出
+/platform
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 测试输出
+*.test
+*.out
+
+# Go工作空间
+/vendor/
+/Godeps/
+
+# IDE配置
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 日志文件
+*.log
+
+# 本地配置（敏感信息）
+config.local.ini
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 临时文件
+tmp/
+temp/

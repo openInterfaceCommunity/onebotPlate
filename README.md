@@ -61,7 +61,7 @@
 
 **项目主页**: [GitHub Repo](https://github.com/openInterfaceCommunity/onebotPlate)
 
-**QQ 交流群**:
+**QQ 交流群**:1077671218
 
 <img src="https://p.ipic.vip/93dvt2.jpg" alt="QQ Group QR Code" width="200" />
 

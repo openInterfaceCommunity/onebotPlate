@@ -1,8 +1,12 @@
-# OneBot Plate
+<div align="center">
 
 <img src="https://p.ipic.vip/mml1wv.jpg" alt="OneBot Plate Logo" width="400" />
 
-**[onebotPlate](https://github.com/openInterfaceCommunity/onebotPlate)** 是一个基于 [OneBot 12 标准](https://github.com/botuniverse/onebot/tree/main/specs) 开发的机器人平台实现。
+<div style="font-size: 2.5em; font-weight: bold; margin: 20px 0;">OneBot Plate (Platform)</div>
+
+### **[onebotPlate](https://github.com/openInterfaceCommunity/onebotPlate)** 是一个基于 [OneBot 12 标准](https://github.com/botuniverse/onebot/tree/main/specs) 开发的机器人平台实现。
+
+</div>
 
 ## 核心概念
 
@@ -55,12 +59,12 @@
 
 如果您有任何问题或建议，欢迎通过以下方式联系：
 
-*   **项目主页**: [GitHub Repo](https://github.com/openInterfaceCommunity/onebotPlate)
-*   **QQ 交流群**:
+**项目主页**: [GitHub Repo](https://github.com/openInterfaceCommunity/onebotPlate)
 
-    <img src="https://p.ipic.vip/93dvt2.jpg" alt="QQ Group QR Code" width="200" />
+**QQ 交流群**:
 
----
+<img src="https://p.ipic.vip/93dvt2.jpg" alt="QQ Group QR Code" width="200" />
+
 
 ### 项目支持
 
